@@ -10,3 +10,5 @@
 
 ## [605. Can Place Flowers](/DSA%20Practice/LeetCode/605.%20Can%20Place%20Flowers/README.md)
 
+
+## [2348. Number of Zero-Filled Subarrays](/DSA%20Practice/LeetCode/2348.%20Number%20of%20Zero-Filled%20Subarrays/README.md)
