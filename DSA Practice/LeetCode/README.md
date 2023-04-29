@@ -5,3 +5,6 @@
 ## [1. Two Sum](/DSA%20Practice/LeetCode/1.%20Two%20Sum/README.md)
 
 ## [2. Add Two Number](/DSA%20Practice/LeetCode/2.%20Add%20Two%20Number/README.md)
+
+## [605. Can Place Flowers](/DSA%20Practice/LeetCode/605.%20Can%20Place%20Flowers/README.md)
+
