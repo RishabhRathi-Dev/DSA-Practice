@@ -14,6 +14,8 @@
 
 ## [1319. Number of Operations to Make Network Connected](/DSA%20Practice/LeetCode/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected/README.md)
 
+## [1466. Reorder Routes to Make All Paths Lead to the City Zero](/DSA%20Practice/LeetCode/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero/README.md)
+
 ## [2348. Number of Zero-Filled Subarrays](/DSA%20Practice/LeetCode/2348.%20Number%20of%20Zero-Filled%20Subarrays/README.md)
 
 ## [2492. Minimum Score of a Path Between Two Cities](/DSA%20Practice/LeetCode/2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities/README.md)
