@@ -12,6 +12,7 @@
 
 ## [605. Can Place Flowers](/DSA%20Practice/LeetCode/605.%20Can%20Place%20Flowers/README.md)
 
+## [1319. Number of Operations to Make Network Connected](/DSA%20Practice/LeetCode/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected/README.md)
 
 ## [2348. Number of Zero-Filled Subarrays](/DSA%20Practice/LeetCode/2348.%20Number%20of%20Zero-Filled%20Subarrays/README.md)
 
