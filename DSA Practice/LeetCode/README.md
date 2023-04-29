@@ -12,3 +12,5 @@
 
 
 ## [2348. Number of Zero-Filled Subarrays](/DSA%20Practice/LeetCode/2348.%20Number%20of%20Zero-Filled%20Subarrays/README.md)
+
+## [2492. Minimum Score of a Path Between Two Cities](/DSA%20Practice/LeetCode/2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities/README.md)
