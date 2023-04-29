@@ -14,6 +14,8 @@
 
 ## [9. Palindrome Number](/DSA%20Practice/LeetCode/9.%20Palindrome%20Number/README.md)
 
+## [15. 3Sum](/DSA%20Practice/LeetCode/15.%203Sum/README.md)
+
 ## [605. Can Place Flowers](/DSA%20Practice/LeetCode/605.%20Can%20Place%20Flowers/README.md)
 
 ## [1319. Number of Operations to Make Network Connected](/DSA%20Practice/LeetCode/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected/README.md)
