@@ -84,6 +84,8 @@
 
 ## [1768. Merge Strings Alternately](/DSA%20Practice/LeetCode/1768.%20Merge%20Strings%20Alternately/README.md)
 
+## [2300. Successful Pairs of Spells and Potions](/DSA%20Practice/LeetCode/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions/README.md)
+
 ## [2336. Smallest Number in Infinite Set](/DSA%20Practice/LeetCode/2336.%20Smallest%20Number%20in%20Infinite%20Set/README.md)
 
 ## [2348. Number of Zero-Filled Subarrays](/DSA%20Practice/LeetCode/2348.%20Number%20of%20Zero-Filled%20Subarrays/README.md)
