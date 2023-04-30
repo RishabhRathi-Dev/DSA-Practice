@@ -26,6 +26,8 @@
 
 ## [104. Maximum Depth of Binary Tree](/DSA%20Practice/LeetCode/104.%20Maximum%20Depth%20of%20Binary%20Tree/README.md)
 
+## [387. First Unique Character in a String](/DSA%20Practice/LeetCode/387.%20First%20Unique%20Character%20in%20a%20String/README.md)
+
 ## [605. Can Place Flowers](/DSA%20Practice/LeetCode/605.%20Can%20Place%20Flowers/README.md)
 
 ## [983. Minimum Cost For Tickets](/DSA%20Practice/LeetCode/983.%20Minimum%20Cost%20For%20Tickets/README.md)
