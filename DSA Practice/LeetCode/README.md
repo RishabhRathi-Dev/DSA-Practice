@@ -36,6 +36,8 @@
 
 ## [83. Remove Duplicates from Sorted List](/DSA%20Practice/LeetCode/83.%20Remove%20Duplicates%20from%20Sorted%20List/README.md)
 
+## [88. Merge Sorted Array](/DSA%20Practice/LeetCode/88.%20Merge%20Sorted%20Array/README.md)
+
 ## [94. Binary Tree Inorder Traversal](/DSA%20Practice/LeetCode/94.%20Binary%20Tree%20Inorder%20Traversal/README.md)
 
 ## [100. Same Tree](/DSA%20Practice/LeetCode/100.%20Same%20Tree/README.md)
