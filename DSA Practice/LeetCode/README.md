@@ -24,6 +24,8 @@
 
 ## [94. Binary Tree Inorder Traversal](/DSA%20Practice/LeetCode/94.%20Binary%20Tree%20Inorder%20Traversal/README.md)
 
+## [100. Same Tree](/DSA%20Practice/LeetCode/100.%20Same%20Tree/README.md)
+
 ## [104. Maximum Depth of Binary Tree](/DSA%20Practice/LeetCode/104.%20Maximum%20Depth%20of%20Binary%20Tree/README.md)
 
 ## [258. Add Digits](/DSA%20Practice/LeetCode/258.%20Add%20Digits/README.md)
