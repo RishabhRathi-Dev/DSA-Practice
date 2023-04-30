@@ -28,6 +28,8 @@
 
 ## [46. Permutations](/DSA%20Practice/LeetCode/46.%20Permutations/README.md)
 
+## [49. Group Anagrams](/DSA%20Practice/LeetCode/49.%20Group%20Anagrams/README.md)
+
 ## [50. Pow(x, n)](/DSA%20Practice/LeetCode//50.%20Pow(x%2C%20n)//README.md)
 
 ## [53. Maximum Subarray](/DSA%20Practice/LeetCode/53.%20Maximum%20Subarray/README.md)
