@@ -28,6 +28,8 @@
 
 ## [21. Merge Two Sorted Lists](/DSA%20Practice/LeetCode/21.%20Merge%20Two%20Sorted%20Lists/README.md)
 
+## [28. Find the Index of the First Occurrence in a String](/DSA%20Practice/LeetCode/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/README.md)
+
 ## [35. Search Insert Position](/DSA%20Practice/LeetCode/35.%20Search%20Insert%20Position/README.md)
 
 ## [46. Permutations](/DSA%20Practice/LeetCode/46.%20Permutations/README.md)
