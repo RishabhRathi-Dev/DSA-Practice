@@ -34,6 +34,8 @@
 
 ## [983. Minimum Cost For Tickets](/DSA%20Practice/LeetCode/983.%20Minimum%20Cost%20For%20Tickets/README.md)
 
+## [1046. Last Stone Weight](/DSA%20Practice/LeetCode/1046.%20Last%20Stone%20Weight/README.md)
+
 ## [1319. Number of Operations to Make Network Connected](/DSA%20Practice/LeetCode/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected/README.md)
 
 ## [1466. Reorder Routes to Make All Paths Lead to the City Zero](/DSA%20Practice/LeetCode/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero/README.md)
