@@ -72,6 +72,8 @@
 
 ## [1046. Last Stone Weight](/DSA%20Practice/LeetCode/1046.%20Last%20Stone%20Weight/README.md)
 
+## [1254. Number of Closed Islands](/DSA%20Practice/LeetCode/1254.%20Number%20of%20Closed%20Islands/README.md)
+
 ## [1319. Number of Operations to Make Network Connected](/DSA%20Practice/LeetCode/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected/README.md)
 
 ## [1431. Kids With the Greatest Number of Candies](/DSA%20Practice/LeetCode/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies/README.md)
