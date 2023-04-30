@@ -12,6 +12,8 @@
 
 ## [5. Longest Palindromic Substring](/DSA%20Practice/LeetCode/5.%20Longest%20Palindromic%20Substring/README.md)
 
+## [7. Reverse Integer](/DSA%20Practice/LeetCode/7.%20Reverse%20Integer/README.md)
+
 ## [8. String to Integer (atoi)](/DSA%20Practice/LeetCode/8.%20String%20to%20Integer%20(atoi)/README.md)
 
 ## [9. Palindrome Number](/DSA%20Practice/LeetCode/9.%20Palindrome%20Number/README.md)
