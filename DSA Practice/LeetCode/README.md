@@ -12,7 +12,7 @@
 
 ## [5. Longest Palindromic Substring](/DSA%20Practice/LeetCode/5.%20Longest%20Palindromic%20Substring/README.md)
 
-## [6. Zigzag Conversion]()
+## [6. Zigzag Conversion](/DSA%20Practice/LeetCode/6.%20Zigzag%20Conversion/README.md)
 
 ## [7. Reverse Integer](/DSA%20Practice/LeetCode/7.%20Reverse%20Integer/README.md)
 
