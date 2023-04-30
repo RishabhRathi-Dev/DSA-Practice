@@ -40,6 +40,8 @@
 
 ## [169. Majority Element](/DSA%20Practice/LeetCode/169.%20Majority%20Element/README.md)
 
+## [217. Contains Duplicate](/DSA%20Practice/LeetCode/217.%20Contains%20Duplicate/README.md)
+
 ## [258. Add Digits](/DSA%20Practice/LeetCode/258.%20Add%20Digits/README.md)
 
 ## [387. First Unique Character in a String](/DSA%20Practice/LeetCode/387.%20First%20Unique%20Character%20in%20a%20String/README.md)
