@@ -48,6 +48,8 @@
 
 ## [1319. Number of Operations to Make Network Connected](/DSA%20Practice/LeetCode/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected/README.md)
 
+## [1431. Kids With the Greatest Number of Candies](/DSA%20Practice/LeetCode/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies/README.md)
+
 ## [1466. Reorder Routes to Make All Paths Lead to the City Zero](/DSA%20Practice/LeetCode/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero/README.md)
 
 ## [1768. Merge Strings Alternately](/DSA%20Practice/LeetCode/1768.%20Merge%20Strings%20Alternately/README.md)
