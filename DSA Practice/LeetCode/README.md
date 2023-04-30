@@ -28,6 +28,8 @@
 
 ## [21. Merge Two Sorted Lists](/DSA%20Practice/LeetCode/21.%20Merge%20Two%20Sorted%20Lists/README.md)
 
+## [22. Generate Parentheses](/DSA%20Practice/LeetCode/22.%20Generate%20Parentheses/README.md)
+
 ## [26. Remove Duplicates from Sorted Array](/DSA%20Practice/LeetCode/26.%20Remove%20Duplicates%20from%20Sorted%20Array/README.md)
 
 ## [27. Remove Element](/DSA%20Practice/LeetCode/27.%20Remove%20Element/README.md)
