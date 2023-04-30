@@ -26,6 +26,8 @@
 
 ## [104. Maximum Depth of Binary Tree](/DSA%20Practice/LeetCode/104.%20Maximum%20Depth%20of%20Binary%20Tree/README.md)
 
+## [258. Add Digits](/DSA%20Practice/LeetCode/258.%20Add%20Digits/README.md)
+
 ## [387. First Unique Character in a String](/DSA%20Practice/LeetCode/387.%20First%20Unique%20Character%20in%20a%20String/README.md)
 
 ## [605. Can Place Flowers](/DSA%20Practice/LeetCode/605.%20Can%20Place%20Flowers/README.md)
