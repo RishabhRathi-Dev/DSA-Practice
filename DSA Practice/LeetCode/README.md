@@ -20,6 +20,8 @@
 
 ## [21. Merge Two Sorted Lists](/DSA%20Practice/LeetCode/21.%20Merge%20Two%20Sorted%20Lists/README.md)
 
+## [53. Maximum Subarray](/DSA%20Practice/LeetCode/53.%20Maximum%20Subarray/README.md)
+
 ## [64. Minimum Path Sum](/DSA%20Practice/LeetCode/64.%20Minimum%20Path%20Sum/README.md)
 
 ## [94. Binary Tree Inorder Traversal](/DSA%20Practice/LeetCode/94.%20Binary%20Tree%20Inorder%20Traversal/README.md)
