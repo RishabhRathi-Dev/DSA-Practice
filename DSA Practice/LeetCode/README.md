@@ -32,6 +32,8 @@
 
 ## [64. Minimum Path Sum](/DSA%20Practice/LeetCode/64.%20Minimum%20Path%20Sum/README.md)
 
+## [66. Plus One](/DSA%20Practice/LeetCode/66.%20Plus%20One/README.md)
+
 ## [67. Add Binary](/DSA%20Practice/LeetCode/67.%20Add%20Binary/README.md)
 
 ## [69. Sqrt(x)](/DSA%20Practice/LeetCode/69.%20Sqrt(x)/README.md)
