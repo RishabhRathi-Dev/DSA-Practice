@@ -22,6 +22,8 @@
 
 ## [21. Merge Two Sorted Lists](/DSA%20Practice/LeetCode/21.%20Merge%20Two%20Sorted%20Lists/README.md)
 
+## [46. Permutations](/DSA%20Practice/LeetCode/46.%20Permutations/README.md)
+
 ## [50. Pow(x, n)](/DSA%20Practice/LeetCode//50.%20Pow(x%2C%20n)//README.md)
 
 ## [53. Maximum Subarray](/DSA%20Practice/LeetCode/53.%20Maximum%20Subarray/README.md)
