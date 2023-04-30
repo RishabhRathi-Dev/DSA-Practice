@@ -52,6 +52,8 @@
 
 ## [125. Valid Palindrome](/DSA%20Practice/LeetCode/125.%20Valid%20Palindrome/README.md)
 
+## [136. Single Number](/DSA%20Practice/LeetCode/136.%20Single%20Number/README.md)
+
 ## [169. Majority Element](/DSA%20Practice/LeetCode/169.%20Majority%20Element/README.md)
 
 ## [217. Contains Duplicate](/DSA%20Practice/LeetCode/217.%20Contains%20Duplicate/README.md)
