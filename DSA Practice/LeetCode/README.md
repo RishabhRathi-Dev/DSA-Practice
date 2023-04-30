@@ -22,6 +22,8 @@
 
 ## [64. Minimum Path Sum](/DSA%20Practice/LeetCode/64.%20Minimum%20Path%20Sum/README.md)
 
+## [94. Binary Tree Inorder Traversal](/DSA%20Practice/LeetCode/94.%20Binary%20Tree%20Inorder%20Traversal/README.md)
+
 ## [605. Can Place Flowers](/DSA%20Practice/LeetCode/605.%20Can%20Place%20Flowers/README.md)
 
 ## [983. Minimum Cost For Tickets](/DSA%20Practice/LeetCode/983.%20Minimum%20Cost%20For%20Tickets/README.md)
