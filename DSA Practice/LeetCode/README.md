@@ -32,6 +32,8 @@
 
 ## [67. Add Binary](/DSA%20Practice/LeetCode/67.%20Add%20Binary/README.md)
 
+## [69. Sqrt(x)](/DSA%20Practice/LeetCode/69.%20Sqrt(x)/README.md)
+
 ## [83. Remove Duplicates from Sorted List](/DSA%20Practice/LeetCode/83.%20Remove%20Duplicates%20from%20Sorted%20List/README.md)
 
 ## [94. Binary Tree Inorder Traversal](/DSA%20Practice/LeetCode/94.%20Binary%20Tree%20Inorder%20Traversal/README.md)
