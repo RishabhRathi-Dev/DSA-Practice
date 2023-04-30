@@ -30,6 +30,8 @@
 
 ## [104. Maximum Depth of Binary Tree](/DSA%20Practice/LeetCode/104.%20Maximum%20Depth%20of%20Binary%20Tree/README.md)
 
+## [125. Valid Palindrome](/DSA%20Practice/LeetCode/125.%20Valid%20Palindrome/README.md)
+
 ## [169. Majority Element](/DSA%20Practice/LeetCode/169.%20Majority%20Element/README.md)
 
 ## [258. Add Digits](/DSA%20Practice/LeetCode/258.%20Add%20Digits/README.md)
