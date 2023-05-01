@@ -100,6 +100,8 @@
 
 ## [1466. Reorder Routes to Make All Paths Lead to the City Zero](/DSA%20Practice/LeetCode/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero/README.md)
 
+## [1491. Average Salary Excluding the Minimum and Maximum Salary]()
+
 ## [1768. Merge Strings Alternately](/DSA%20Practice/LeetCode/1768.%20Merge%20Strings%20Alternately/README.md)
 
 ## [2300. Successful Pairs of Spells and Potions](/DSA%20Practice/LeetCode/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions/README.md)
@@ -108,7 +110,7 @@
 
 ## [2348. Number of Zero-Filled Subarrays](/DSA%20Practice/LeetCode/2348.%20Number%20of%20Zero-Filled%20Subarrays/README.md)
 
-## [2405. Optimal Partition of String]()
+## [2405. Optimal Partition of String](/DSA%20Practice/LeetCode/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/README.md)
 
 ## [2439. Minimize Maximum of Array](/DSA%20Practice/LeetCode/2439.%20Minimize%20Maximum%20of%20Array/README.md)
 
