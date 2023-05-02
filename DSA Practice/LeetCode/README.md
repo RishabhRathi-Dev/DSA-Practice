@@ -122,4 +122,6 @@
 
 ## [2492. Minimum Score of a Path Between Two Cities](/DSA%20Practice/LeetCode/2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities/README.md)
 
+## [2652. Sum Multiples](/DSA%20Practice/LeetCode/2652.%20Sum%20Multiples/README.md)
+
 ## [2656. Maximum Sum With Exactly K Elements](/DSA%20Practice/LeetCode/2656.%20Maximum%20Sum%20With%20Exactly%20K%20Elements/README%2Cmd)
