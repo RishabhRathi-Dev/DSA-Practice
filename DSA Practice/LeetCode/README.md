@@ -90,6 +90,8 @@
 
 ## [605. Can Place Flowers](/DSA%20Practice/LeetCode/605.%20Can%20Place%20Flowers/README.md)
 
+## [649. Dota2 Senate](/DSA%20Practice/LeetCode/649.%20Dota2%20Senate/README.md)
+
 ## [704. Binary Search](/DSA%20Practice/LeetCode/704.%20Binary%20Search/README.md)
 
 ## [881. Boats to Save People](/DSA%20Practice/LeetCode/881.%20Boats%20to%20Save%20People/README.md)
