@@ -80,6 +80,8 @@
 
 ## [258. Add Digits](/DSA%20Practice/LeetCode/258.%20Add%20Digits/README.md)
 
+## [283. Move Zeroes](/DSA%20Practice/LeetCode/283.%20Move%20Zeroes/README.md)
+
 ## [292. Nim Game](/DSA%20Practice/LeetCode/292.%20Nim%20Game/README.md)
 
 ## [387. First Unique Character in a String](/DSA%20Practice/LeetCode/387.%20First%20Unique%20Character%20in%20a%20String/README.md)
