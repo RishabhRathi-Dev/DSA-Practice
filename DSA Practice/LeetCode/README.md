@@ -106,6 +106,8 @@
 
 ## [1431. Kids With the Greatest Number of Candies](/DSA%20Practice/LeetCode/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies/README.md)
 
+## [1456. Maximum Number of Vowels in a Substring of Given Length](/DSA%20Practice/LeetCode/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/README.md)
+
 ## [1466. Reorder Routes to Make All Paths Lead to the City Zero](/DSA%20Practice/LeetCode/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero/README.md)
 
 ## [1491. Average Salary Excluding the Minimum and Maximum Salary]()
