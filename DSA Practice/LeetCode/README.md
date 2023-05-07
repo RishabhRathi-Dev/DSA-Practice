@@ -58,6 +58,8 @@
 
 ## [69. Sqrt(x)](/DSA%20Practice/LeetCode/69.%20Sqrt(x)/README.md)
 
+## [70. Climbing Stairs](/DSA%20Practice/LeetCode/70.%20Climbing%20Stairs/README.md)
+
 ## [83. Remove Duplicates from Sorted List](/DSA%20Practice/LeetCode/83.%20Remove%20Duplicates%20from%20Sorted%20List/README.md)
 
 ## [88. Merge Sorted Array](/DSA%20Practice/LeetCode/88.%20Merge%20Sorted%20Array/README.md)
