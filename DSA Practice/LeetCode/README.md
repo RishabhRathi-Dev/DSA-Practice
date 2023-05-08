@@ -114,7 +114,9 @@
 
 ## [1466. Reorder Routes to Make All Paths Lead to the City Zero](/DSA%20Practice/LeetCode/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero/README.md)
 
-## [1491. Average Salary Excluding the Minimum and Maximum Salary]()
+## [1491. Average Salary Excluding the Minimum and Maximum Salary](/DSA%20Practice/LeetCode/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/README.md)
+
+## [1572. Matrix Diagonal Sum](/DSA%20Practice/LeetCode/1572.%20Matrix%20Diagonal%20Sum/README.md)
 
 ## [1768. Merge Strings Alternately](/DSA%20Practice/LeetCode/1768.%20Merge%20Strings%20Alternately/README.md)
 
