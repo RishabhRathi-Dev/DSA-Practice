@@ -52,6 +52,8 @@
 
 ## [58. Length of Last Word](/DSA%20Practice/LeetCode/58.%20Length%20of%20Last%20Word/README.md)
 
+## [59. Spiral Matrix II](/DSA%20Practice/LeetCode/59.%20Spiral%20Matrix%20II/README.md)
+
 ## [64. Minimum Path Sum](/DSA%20Practice/LeetCode/64.%20Minimum%20Path%20Sum/README.md)
 
 ## [66. Plus One](/DSA%20Practice/LeetCode/66.%20Plus%20One/README.md)
