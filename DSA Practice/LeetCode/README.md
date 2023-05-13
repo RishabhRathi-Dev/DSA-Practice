@@ -86,6 +86,8 @@
 
 ## [217. Contains Duplicate](/DSA%20Practice/LeetCode/217.%20Contains%20Duplicate/README.md)
 
+## [242. Valid Anagram](/DSA%20Practice/LeetCode/242.%20Valid%20Anagram/README.md)
+
 ## [258. Add Digits](/DSA%20Practice/LeetCode/258.%20Add%20Digits/README.md)
 
 ## [283. Move Zeroes](/DSA%20Practice/LeetCode/283.%20Move%20Zeroes/README.md)
