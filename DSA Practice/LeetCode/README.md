@@ -126,6 +126,8 @@
 
 ## [1572. Matrix Diagonal Sum](/DSA%20Practice/LeetCode/1572.%20Matrix%20Diagonal%20Sum/README.md)
 
+## [1721. Swapping Nodes in a Linked List](/DSA%20Practice/LeetCode/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List/README.md)
+
 ## [1768. Merge Strings Alternately](/DSA%20Practice/LeetCode/1768.%20Merge%20Strings%20Alternately/README.md)
 
 ## [1822. Sign of the Product of an Array](/DSA%20Practice/LeetCode/1822.%20Sign%20of%20the%20Product%20of%20an%20Array/README.md)
