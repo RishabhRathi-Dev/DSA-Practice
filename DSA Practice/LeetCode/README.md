@@ -136,6 +136,8 @@
 
 ## [1822. Sign of the Product of an Array](/DSA%20Practice/LeetCode/1822.%20Sign%20of%20the%20Product%20of%20an%20Array/README.md)
 
+## [2130. Maximum Twin Sum of a Linked List](/DSA%20Practice/LeetCode/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/README.md)
+
 ## [2140. Solving Questions With Brainpower](/DSA%20Practice/LeetCode/2140.%20Solving%20Questions%20With%20Brainpower/README.md)
 
 ## [2215. Find the Difference of Two Arrays](/DSA%20Practice/LeetCode/2215.%20Find%20the%20Difference%20of%20Two%20Arrays/README.md)
