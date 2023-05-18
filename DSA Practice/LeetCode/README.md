@@ -128,6 +128,8 @@
 
 ## [1491. Average Salary Excluding the Minimum and Maximum Salary](/DSA%20Practice/LeetCode/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/README.md)
 
+## [1557. Minimum Number of Vertices to Reach All Nodes](/DSA%20Practice/LeetCode/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes/README.md)
+
 ## [1572. Matrix Diagonal Sum](/DSA%20Practice/LeetCode/1572.%20Matrix%20Diagonal%20Sum/README.md)
 
 ## [1721. Swapping Nodes in a Linked List](/DSA%20Practice/LeetCode/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List/README.md)
