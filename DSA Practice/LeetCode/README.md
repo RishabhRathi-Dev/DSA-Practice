@@ -98,6 +98,8 @@
 
 ## [292. Nim Game](/DSA%20Practice/LeetCode/292.%20Nim%20Game/README.md)
 
+## [326. Power of Three](/DSA%20Practice/LeetCode/387.%20First%20Unique%20Character%20in%20a%20String/README.md)
+
 ## [387. First Unique Character in a String](/DSA%20Practice/LeetCode/387.%20First%20Unique%20Character%20in%20a%20String/README.md)
 
 ## [409. Longest Palindrome](/DSA%20Practice/LeetCode/409.%20Longest%20Palindrome/README.md)
