@@ -94,6 +94,8 @@
 
 ## [258. Add Digits](/DSA%20Practice/LeetCode/258.%20Add%20Digits/README.md)
 
+## [263. Ugly Number](/DSA%20Practice/LeetCode/263.%20Ugly%20Number/README.md)
+
 ## [283. Move Zeroes](/DSA%20Practice/LeetCode/283.%20Move%20Zeroes/README.md)
 
 ## [292. Nim Game](/DSA%20Practice/LeetCode/292.%20Nim%20Game/README.md)
