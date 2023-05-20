@@ -88,6 +88,8 @@
 
 ## [169. Majority Element](/DSA%20Practice/LeetCode/169.%20Majority%20Element/README.md)
 
+## [202. Happy Number](/DSA%20Practice/LeetCode/202.%20Happy%20Number/README.md)
+
 ## [217. Contains Duplicate](/DSA%20Practice/LeetCode/217.%20Contains%20Duplicate/README.md)
 
 ## [242. Valid Anagram](/DSA%20Practice/LeetCode/242.%20Valid%20Anagram/README.md)
