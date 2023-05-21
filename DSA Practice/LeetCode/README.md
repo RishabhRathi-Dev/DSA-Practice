@@ -94,6 +94,8 @@
 
 ## [242. Valid Anagram](/DSA%20Practice/LeetCode/242.%20Valid%20Anagram/README.md)
 
+## [257. Binary Tree Paths](/DSA%20Practice/LeetCode/257.%20Binary%20Tree%20Paths/README.md)
+
 ## [258. Add Digits](/DSA%20Practice/LeetCode/258.%20Add%20Digits/README.md)
 
 ## [263. Ugly Number](/DSA%20Practice/LeetCode/263.%20Ugly%20Number/README.md)
