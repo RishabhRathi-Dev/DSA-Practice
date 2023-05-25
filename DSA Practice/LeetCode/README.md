@@ -108,6 +108,8 @@
 
 ## [347. Top K Frequent Elements](/DSA%20Practice/LeetCode/347.%20Top%20K%20Frequent%20Elements/README.md)
 
+## [367. Valid Perfect Square](/DSA%20Practice/LeetCode/367.%20Valid%20Perfect%20Square/README.md)
+
 ## [387. First Unique Character in a String](/DSA%20Practice/LeetCode/387.%20First%20Unique%20Character%20in%20a%20String/README.md)
 
 ## [409. Longest Palindrome](/DSA%20Practice/LeetCode/409.%20Longest%20Palindrome/README.md)
