@@ -88,6 +88,12 @@
 
 ## [169. Majority Element](/DSA%20Practice/LeetCode/169.%20Majority%20Element/README.md)
 
+## [175. Combine Two Tables](/DSA%20Practice/LeetCode/175.%20Combine%20Two%20Tables/README.md)
+
+## [193. Valid Phone Numbers](/DSA%20Practice/LeetCode/193.%20Valid%20Phone%20Numbers/README.md)
+
+## [195. Tenth Line](/DSA%20Practice/LeetCode/195.%20Tenth%20Line/README.md)
+
 ## [202. Happy Number](/DSA%20Practice/LeetCode/202.%20Happy%20Number/README.md)
 
 ## [217. Contains Duplicate](/DSA%20Practice/LeetCode/217.%20Contains%20Duplicate/README.md)
