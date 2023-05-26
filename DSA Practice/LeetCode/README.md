@@ -90,6 +90,8 @@
 
 ## [175. Combine Two Tables](/DSA%20Practice/LeetCode/175.%20Combine%20Two%20Tables/README.md)
 
+## [176. Second Highest Salary](/DSA%20Practice/LeetCode/176.%20Second%20Highest%20Salary/README.md)
+
 ## [193. Valid Phone Numbers](/DSA%20Practice/LeetCode/193.%20Valid%20Phone%20Numbers/README.md)
 
 ## [195. Tenth Line](/DSA%20Practice/LeetCode/195.%20Tenth%20Line/README.md)
