@@ -114,6 +114,8 @@
 
 ## [263. Ugly Number](/DSA%20Practice/LeetCode/263.%20Ugly%20Number/README.md)
 
+## [278. First Bad Version](/DSA%20Practice/LeetCode/278.%20First%20Bad%20Version/README.md)
+
 ## [283. Move Zeroes](/DSA%20Practice/LeetCode/283.%20Move%20Zeroes/README.md)
 
 ## [292. Nim Game](/DSA%20Practice/LeetCode/292.%20Nim%20Game/README.md)
