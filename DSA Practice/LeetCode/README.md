@@ -96,6 +96,8 @@
 
 ## [178. Rank Scores](/DSA%20Practice/LeetCode/178.%20Rank%20Scores/README.md)
 
+## [185. Department Top Three Salaries](/DSA%20Practice/LeetCode/185.%20Department%20Top%20Three%20Salaries/README.md)
+
 ## [193. Valid Phone Numbers](/DSA%20Practice/LeetCode/193.%20Valid%20Phone%20Numbers/README.md)
 
 ## [195. Tenth Line](/DSA%20Practice/LeetCode/195.%20Tenth%20Line/README.md)
