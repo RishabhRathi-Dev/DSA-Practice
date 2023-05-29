@@ -164,7 +164,7 @@
 
 ## [1572. Matrix Diagonal Sum](/DSA%20Practice/LeetCode/1572.%20Matrix%20Diagonal%20Sum/README.md)
 
-## [1603. Design Parking System]()
+## [1603. Design Parking System](/DSA%20Practice/LeetCode/1603.%20Design%20Parking%20System/README.md)
 
 ## [1721. Swapping Nodes in a Linked List](/DSA%20Practice/LeetCode/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List/README.md)
 
