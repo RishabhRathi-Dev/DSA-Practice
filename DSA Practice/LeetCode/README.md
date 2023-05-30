@@ -142,6 +142,8 @@
 
 ## [704. Binary Search](/DSA%20Practice/LeetCode/704.%20Binary%20Search/README.md)
 
+## [705. Design HashSet](/DSA%20Practice/LeetCode/705.%20Design%20HashSet/README.md)
+
 ## [881. Boats to Save People](/DSA%20Practice/LeetCode/881.%20Boats%20to%20Save%20People/README.md)
 
 ## [983. Minimum Cost For Tickets](/DSA%20Practice/LeetCode/983.%20Minimum%20Cost%20For%20Tickets/README.md)
