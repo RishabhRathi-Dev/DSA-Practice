@@ -154,6 +154,8 @@
 
 ## [1319. Number of Operations to Make Network Connected](/DSA%20Practice/LeetCode/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected/README.md)
 
+## [1396. Design Underground System](/DSA%20Practice/LeetCode/1396.%20Design%20Underground%20System/README.md)
+
 ## [1431. Kids With the Greatest Number of Candies](/DSA%20Practice/LeetCode/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies/README.md)
 
 ## [1456. Maximum Number of Vowels in a Substring of Given Length](/DSA%20Practice/LeetCode/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/README.md)
