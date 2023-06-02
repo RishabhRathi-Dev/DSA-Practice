@@ -98,6 +98,8 @@
 
 ## [180. Consecutive Numbers](/DSA%20Practice/LeetCode/180.%20Consecutive%20Numbers/README.md)
 
+## [184. Department Highest Salary](/DSA%20Practice/LeetCode/184.%20Department%20Highest%20Salary/README.md)
+
 ## [185. Department Top Three Salaries](/DSA%20Practice/LeetCode/185.%20Department%20Top%20Three%20Salaries/README.md)
 
 ## [193. Valid Phone Numbers](/DSA%20Practice/LeetCode/193.%20Valid%20Phone%20Numbers/README.md)
