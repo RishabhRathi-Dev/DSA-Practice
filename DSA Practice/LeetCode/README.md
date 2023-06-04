@@ -154,6 +154,8 @@
 
 ## [983. Minimum Cost For Tickets](/DSA%20Practice/LeetCode/983.%20Minimum%20Cost%20For%20Tickets/README.md)
 
+## [1045. Customers Who Bought All Products](/DSA%20Practice/LeetCode/1045.%20Customers%20Who%20Bought%20All%20Products/README.md)
+
 ## [1046. Last Stone Weight](/DSA%20Practice/LeetCode/1046.%20Last%20Stone%20Weight/README.md)
 
 ## [1254. Number of Closed Islands](/DSA%20Practice/LeetCode/1254.%20Number%20of%20Closed%20Islands/README.md)
