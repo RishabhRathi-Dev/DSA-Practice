@@ -162,6 +162,8 @@
 
 ## [1254. Number of Closed Islands](/DSA%20Practice/LeetCode/1254.%20Number%20of%20Closed%20Islands/README.md)
 
+## [1318. Minimum Flips to Make a OR b Equal to c](/DSA%20Practice/LeetCode/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c/README.md)
+
 ## [1319. Number of Operations to Make Network Connected](/DSA%20Practice/LeetCode/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected/README.md)
 
 ## [1396. Design Underground System](/DSA%20Practice/LeetCode/1396.%20Design%20Underground%20System/README.md)
