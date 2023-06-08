@@ -110,6 +110,8 @@
 
 ## [195. Tenth Line](/DSA%20Practice/LeetCode/195.%20Tenth%20Line/README.md)
 
+## [196. Delete Duplicate Emails](/DSA%20Practice/LeetCode/196.%20Delete%20Duplicate%20Emails/README.md)
+
 ## [202. Happy Number](/DSA%20Practice/LeetCode/202.%20Happy%20Number/README.md)
 
 ## [217. Contains Duplicate](/DSA%20Practice/LeetCode/217.%20Contains%20Duplicate/README.md)
