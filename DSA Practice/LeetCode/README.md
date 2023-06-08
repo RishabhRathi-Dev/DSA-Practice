@@ -28,6 +28,8 @@
 
 ## [15. 3Sum](/DSA%20Practice/LeetCode/15.%203Sum/README.md)
 
+## [19. Remove Nth Node From End of List](/DSA%20Practice/LeetCode/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/README.md)
+
 ## [20. Valid Parentheses](/DSA%20Practice/LeetCode/20.%20Valid%20Parentheses/README.md)
 
 ## [21. Merge Two Sorted Lists](/DSA%20Practice/LeetCode/21.%20Merge%20Two%20Sorted%20Lists/README.md)
