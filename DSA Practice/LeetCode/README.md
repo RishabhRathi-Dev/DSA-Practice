@@ -102,6 +102,8 @@
 
 ## [181. Employees Earning More Than Their Managers](/DSA%20Practice/LeetCode/181.%20Employees%20Earning%20More%20Than%20Their%20Managers/README.md)
 
+## [182. Duplicate Emails](/DSA%20Practice/LeetCode/182.%20Duplicate%20Emails/README.md)
+
 ## [184. Department Highest Salary](/DSA%20Practice/LeetCode/184.%20Department%20Highest%20Salary/README.md)
 
 ## [185. Department Top Three Salaries](/DSA%20Practice/LeetCode/185.%20Department%20Top%20Three%20Salaries/README.md)
