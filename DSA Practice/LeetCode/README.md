@@ -122,6 +122,8 @@
 
 ## [258. Add Digits](/DSA%20Practice/LeetCode/258.%20Add%20Digits/README.md)
 
+## [260. Single Number III](/DSA%20Practice/LeetCode/260.%20Single%20Number%20III/README.md)
+
 ## [263. Ugly Number](/DSA%20Practice/LeetCode/263.%20Ugly%20Number/README.md)
 
 ## [278. First Bad Version](/DSA%20Practice/LeetCode/278.%20First%20Bad%20Version/README.md)
