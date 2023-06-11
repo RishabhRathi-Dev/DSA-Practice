@@ -198,6 +198,8 @@
 
 ## [1502. Can Make Arithmetic Progression From Sequence](/DSA%20Practice/LeetCode/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence/README.md)
 
+## [1527. Patients With a Condition](/DSA%20Practice/LeetCode/1527.%20Patients%20With%20a%20Condition/README.md)
+
 ## [1557. Minimum Number of Vertices to Reach All Nodes](/DSA%20Practice/LeetCode/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes/README.md)
 
 ## [1572. Matrix Diagonal Sum](/DSA%20Practice/LeetCode/1572.%20Matrix%20Diagonal%20Sum/README.md)
