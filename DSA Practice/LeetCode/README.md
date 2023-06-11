@@ -170,6 +170,8 @@
 
 ## [1046. Last Stone Weight](/DSA%20Practice/LeetCode/1046.%20Last%20Stone%20Weight/README.md)
 
+## [1146. Snapshot Array](/DSA%20Practice/LeetCode/1146.%20Snapshot%20Array/README.md)
+
 ## [1232. Check If It Is a Straight Line](/DSA%20Practice/LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/README.md)
 
 ## [1254. Number of Closed Islands](/DSA%20Practice/LeetCode/1254.%20Number%20of%20Closed%20Islands/README.md)
