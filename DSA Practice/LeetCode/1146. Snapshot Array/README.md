@@ -14,6 +14,9 @@ Implement a SnapshotArray that supports the following interface:
 Tried with dictionary got mle so solved using the editorial guidance
 
 Approach: Binary Search
+
+![DSA Practice\LeetCode\ss\1146.png](/DSA%20Practice/LeetCode/ss/1146.png)
+
 Intuition
 One alternative is to focus on the historical record of each element, and record the value of the modified element when set is called. This approach will reduce the memory required to store the history of the array's elements and improve query times for specific snapshots since we save an element nums[i] only when it is modified by set.
 
