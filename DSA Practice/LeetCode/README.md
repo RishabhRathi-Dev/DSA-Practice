@@ -90,7 +90,7 @@
 
 ## [136. Single Number](/DSA%20Practice/LeetCode/136.%20Single%20Number/README.md)
 
-## [153. Find Minimum in Rotated Sorted Array]()
+## [153. Find Minimum in Rotated Sorted Array](/DSA%20Practice/LeetCode/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/README.md)
 
 ## [169. Majority Element](/DSA%20Practice/LeetCode/169.%20Majority%20Element/README.md)
 
