@@ -90,6 +90,8 @@
 
 ## [136. Single Number](/DSA%20Practice/LeetCode/136.%20Single%20Number/README.md)
 
+## [153. Find Minimum in Rotated Sorted Array]()
+
 ## [169. Majority Element](/DSA%20Practice/LeetCode/169.%20Majority%20Element/README.md)
 
 ## [175. Combine Two Tables](/DSA%20Practice/LeetCode/175.%20Combine%20Two%20Tables/README.md)
