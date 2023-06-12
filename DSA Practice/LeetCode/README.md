@@ -142,6 +142,8 @@
 
 ## [326. Power of Three](/DSA%20Practice/LeetCode/387.%20First%20Unique%20Character%20in%20a%20String/README.md)
 
+## [338. Counting Bits](/DSA%20Practice/LeetCode/338.%20Counting%20Bits/README.md)
+
 ## [347. Top K Frequent Elements](/DSA%20Practice/LeetCode/347.%20Top%20K%20Frequent%20Elements/README.md)
 
 ## [367. Valid Perfect Square](/DSA%20Practice/LeetCode/367.%20Valid%20Perfect%20Square/README.md)
