@@ -122,6 +122,8 @@
 
 ## [217. Contains Duplicate](/DSA%20Practice/LeetCode/217.%20Contains%20Duplicate/README.md)
 
+## [228. Summary Ranges](/DSA%20Practice/LeetCode/228.%20Summary%20Ranges/README.md)
+
 ## [242. Valid Anagram](/DSA%20Practice/LeetCode/242.%20Valid%20Anagram/README.md)
 
 ## [257. Binary Tree Paths](/DSA%20Practice/LeetCode/257.%20Binary%20Tree%20Paths/README.md)
