@@ -36,6 +36,8 @@
 
 ## [22. Generate Parentheses](/DSA%20Practice/LeetCode/22.%20Generate%20Parentheses/README.md)
 
+## [23. Merge k Sorted Lists](/DSA%20Practice/LeetCode/23.%20Merge%20k%20Sorted%20Lists/README.md)
+
 ## [24. Swap Nodes in Pairs](/DSA%20Practice/LeetCode/24.%20Swap%20Nodes%20in%20Pairs/README.md)
 
 ## [26. Remove Duplicates from Sorted Array](/DSA%20Practice/LeetCode/26.%20Remove%20Duplicates%20from%20Sorted%20Array/README.md)
