@@ -50,6 +50,8 @@
 
 ## [35. Search Insert Position](/DSA%20Practice/LeetCode/35.%20Search%20Insert%20Position/README.md)
 
+## [41. First Missing Positive](/DSA%20Practice/LeetCode/41.%20First%20Missing%20Positive/README.md)
+
 ## [46. Permutations](/DSA%20Practice/LeetCode/46.%20Permutations/README.md)
 
 ## [49. Group Anagrams](/DSA%20Practice/LeetCode/49.%20Group%20Anagrams/README.md)
