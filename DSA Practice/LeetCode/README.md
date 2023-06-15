@@ -52,6 +52,8 @@
 
 ## [41. First Missing Positive](/DSA%20Practice/LeetCode/41.%20First%20Missing%20Positive/README.md)
 
+## [42. Trapping Rain Water](/DSA%20Practice/LeetCode/42.%20Trapping%20Rain%20Water/README.md)
+
 ## [46. Permutations](/DSA%20Practice/LeetCode/46.%20Permutations/README.md)
 
 ## [49. Group Anagrams](/DSA%20Practice/LeetCode/49.%20Group%20Anagrams/README.md)
