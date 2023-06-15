@@ -1,6 +1,7 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
-        """leftGate = 0
+        """
+        leftGate = 0
         pointer = 0
         water = 0
         ac = 0
@@ -39,7 +40,9 @@ class Solution:
 
             
 
-        return water"""
+        return water
+        
+        """
 
         left = 0
         right = len(height) - 1
