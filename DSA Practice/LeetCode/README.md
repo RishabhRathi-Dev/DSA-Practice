@@ -134,6 +134,8 @@
 
 ## [228. Summary Ranges](/DSA%20Practice/LeetCode/228.%20Summary%20Ranges/README.md)
 
+## [236. Lowest Common Ancestor of a Binary Tree](/DSA%20Practice/LeetCode/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/README.md)
+
 ## [242. Valid Anagram](/DSA%20Practice/LeetCode/242.%20Valid%20Anagram/README.md)
 
 ## [257. Binary Tree Paths](/DSA%20Practice/LeetCode/257.%20Binary%20Tree%20Paths/README.md)
