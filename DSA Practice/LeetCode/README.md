@@ -128,6 +128,8 @@
 
 ## [196. Delete Duplicate Emails](/DSA%20Practice/LeetCode/196.%20Delete%20Duplicate%20Emails/README.md)
 
+## [197. Rising Temperature](/DSA%20Practice/LeetCode/197.%20Rising%20Temperature/README.md)
+
 ## [202. Happy Number](/DSA%20Practice/LeetCode/202.%20Happy%20Number/README.md)
 
 ## [217. Contains Duplicate](/DSA%20Practice/LeetCode/217.%20Contains%20Duplicate/README.md)
