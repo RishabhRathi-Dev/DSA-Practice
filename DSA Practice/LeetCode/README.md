@@ -148,6 +148,8 @@
 
 ## [260. Single Number III](/DSA%20Practice/LeetCode/260.%20Single%20Number%20III/README.md)
 
+## [262. Trips and Users](/DSA%20Practice/LeetCode/262.%20Trips%20and%20Users/README.md)
+
 ## [263. Ugly Number](/DSA%20Practice/LeetCode/263.%20Ugly%20Number/README.md)
 
 ## [264. Ugly Number II](/DSA%20Practice/LeetCode/264.%20Ugly%20Number%20II/README.md)
