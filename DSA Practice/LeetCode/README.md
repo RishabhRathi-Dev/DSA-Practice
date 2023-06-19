@@ -208,6 +208,8 @@
 
 ## [983. Minimum Cost For Tickets](/DSA%20Practice/LeetCode/983.%20Minimum%20Cost%20For%20Tickets/README.md)
 
+## [997. Find the Town Judge](/DSA%20Practice/LeetCode/997.%20Find%20the%20Town%20Judge/README.md)
+
 ## [1045. Customers Who Bought All Products](/DSA%20Practice/LeetCode/1045.%20Customers%20Who%20Bought%20All%20Products/README.md)
 
 ## [1046. Last Stone Weight](/DSA%20Practice/LeetCode/1046.%20Last%20Stone%20Weight/README.md)
