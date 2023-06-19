@@ -186,6 +186,8 @@
 
 ## [577. Employee Bonus](/DSA%20Practice/LeetCode/577.%20Employee%20Bonus/README.md)
 
+## [583. Delete Operation for Two Strings](/DSA%20Practice/LeetCode/583.%20Delete%20Operation%20for%20Two%20Strings/README.md)
+
 ## [584. Find Customer Referee](/DSA%20Practice/LeetCode/584.%20Find%20Customer%20Referee/README.md)
 
 ## [585. Investments in 2016](/DSA%20Practice/LeetCode/585.%20Investments%20in%202016/README.md)
