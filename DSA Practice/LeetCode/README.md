@@ -124,6 +124,8 @@
 
 ## [185. Department Top Three Salaries](/DSA%20Practice/LeetCode/185.%20Department%20Top%20Three%20Salaries/README.md)
 
+## [189. Rotate Array](/DSA%20Practice/LeetCode/189.%20Rotate%20Array/README.md)
+
 ## [193. Valid Phone Numbers](/DSA%20Practice/LeetCode/193.%20Valid%20Phone%20Numbers/README.md)
 
 ## [195. Tenth Line](/DSA%20Practice/LeetCode/195.%20Tenth%20Line/README.md)
