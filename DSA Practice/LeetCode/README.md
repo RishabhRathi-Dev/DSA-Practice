@@ -184,6 +184,8 @@
 
 ## [570. Managers with at Least 5 Direct Reports](/DSA%20Practice/LeetCode/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports/README.md)
 
+## [577. Employee Bonus](/DSA%20Practice/LeetCode/577.%20Employee%20Bonus/README.md)
+
 ## [605. Can Place Flowers](/DSA%20Practice/LeetCode/605.%20Can%20Place%20Flowers/README.md)
 
 ## [649. Dota2 Senate](/DSA%20Practice/LeetCode/649.%20Dota2%20Senate/README.md)
