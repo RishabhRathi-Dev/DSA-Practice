@@ -278,6 +278,8 @@
 
 ## [2352. Equal Row and Column Pairs](/DSA%20Practice/LeetCode/2352.%20Equal%20Row%20and%20Column%20Pairs/README.md)
 
+## [2363. Merge Similar Items](/DSA%20Practice/LeetCode/2363.%20Merge%20Similar%20Items/README.md)
+
 ## [2405. Optimal Partition of String](/DSA%20Practice/LeetCode/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/README.md)
 
 ## [2439. Minimize Maximum of Array](/DSA%20Practice/LeetCode/2439.%20Minimize%20Maximum%20of%20Array/README.md)
