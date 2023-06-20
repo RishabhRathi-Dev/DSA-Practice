@@ -258,6 +258,8 @@
 
 ## [1822. Sign of the Product of an Array](/DSA%20Practice/LeetCode/1822.%20Sign%20of%20the%20Product%20of%20an%20Array/README.md)
 
+## [2090. K Radius Subarray Averages](/DSA%20Practice/LeetCode/2090.%20K%20Radius%20Subarray%20Averages/README.md)
+
 ## [2130. Maximum Twin Sum of a Linked List](/DSA%20Practice/LeetCode/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/README.md)
 
 ## [2140. Solving Questions With Brainpower](/DSA%20Practice/LeetCode/2140.%20Solving%20Questions%20With%20Brainpower/README.md)
@@ -270,7 +272,7 @@
 
 ## [2348. Number of Zero-Filled Subarrays](/DSA%20Practice/LeetCode/2348.%20Number%20of%20Zero-Filled%20Subarrays/README.md)
 
-## [2352. Equal Row and Column Pairs]()
+## [2352. Equal Row and Column Pairs](/DSA%20Practice/LeetCode/2352.%20Equal%20Row%20and%20Column%20Pairs/README.md)
 
 ## [2405. Optimal Partition of String](/DSA%20Practice/LeetCode/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/README.md)
 
