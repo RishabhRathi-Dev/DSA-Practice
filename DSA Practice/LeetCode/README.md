@@ -212,6 +212,8 @@
 
 ## [881. Boats to Save People](/DSA%20Practice/LeetCode/881.%20Boats%20to%20Save%20People/README.md)
 
+## [938. Range Sum of BST](/DSA%20Practice/LeetCode/938.%20Range%20Sum%20of%20BST/README.md)
+
 ## [983. Minimum Cost For Tickets](/DSA%20Practice/LeetCode/983.%20Minimum%20Cost%20For%20Tickets/README.md)
 
 ## [997. Find the Town Judge](/DSA%20Practice/LeetCode/997.%20Find%20the%20Town%20Judge/README.md)
