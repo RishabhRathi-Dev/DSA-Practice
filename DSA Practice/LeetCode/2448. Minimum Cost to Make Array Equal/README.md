@@ -17,6 +17,8 @@ Resource
 
 - [Weighted Median](https://en.wikipedia.org/wiki/Weighted_median#:~:text=In%20statistics%2C%20a%20weighted%20median,central%20tendency%2C%20robust%20against%20outliers.)
 
+- [Simple Explaination of weighted median](https://math.stackexchange.com/questions/863213/what-is-weighted-median)
+
 - [minimizing the sum of weighted absolute distance](https://math.stackexchange.com/questions/1547336/minimizing-the-sum-of-weighted-absolute-distance)
 
 [courtesy](https://leetcode.com/problems/minimum-cost-to-make-array-equal/solutions/2734183/python3-weighted-median-o-nlogn-with-explanations/)
