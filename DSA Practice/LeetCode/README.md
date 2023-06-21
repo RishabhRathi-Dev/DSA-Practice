@@ -198,6 +198,8 @@
 
 ## [585. Investments in 2016](/DSA%20Practice/LeetCode/585.%20Investments%20in%202016/README.md)
 
+## [596. Classes More Than 5 Students](/DSA%20Practice/LeetCode/596.%20Classes%20More%20Than%205%20Students/README.md)
+
 ## [605. Can Place Flowers](/DSA%20Practice/LeetCode/605.%20Can%20Place%20Flowers/README.md)
 
 ## [649. Dota2 Senate](/DSA%20Practice/LeetCode/649.%20Dota2%20Senate/README.md)
