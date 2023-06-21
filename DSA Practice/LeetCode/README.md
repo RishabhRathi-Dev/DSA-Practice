@@ -286,6 +286,8 @@
 
 ## [2439. Minimize Maximum of Array](/DSA%20Practice/LeetCode/2439.%20Minimize%20Maximum%20of%20Array/README.md)
 
+## [2448. Minimum Cost to Make Array Equal](/DSA%20Practice/LeetCode/2448.%20Minimum%20Cost%20to%20Make%20Array%20Equal/README.md)
+
 ## [2492. Minimum Score of a Path Between Two Cities](/DSA%20Practice/LeetCode/2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities/README.md)
 
 ## [2553. Separate the Digits in an Array](/DSA%20Practice/LeetCode/2553.%20Separate%20the%20Digits%20in%20an%20Array/README.md)
