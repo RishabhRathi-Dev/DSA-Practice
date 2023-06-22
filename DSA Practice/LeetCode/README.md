@@ -70,6 +70,8 @@
 
 ## [54. Spiral Matrix](/DSA%20Practice/LeetCode/54.%20Spiral%20Matrix/README.md)
 
+## [55. Jump Game](/DSA%20Practice/LeetCode/55.%20Jump%20Game/README.md)
+
 ## [58. Length of Last Word](/DSA%20Practice/LeetCode/58.%20Length%20of%20Last%20Word/README.md)
 
 ## [59. Spiral Matrix II](/DSA%20Practice/LeetCode/59.%20Spiral%20Matrix%20II/README.md)
