@@ -168,6 +168,8 @@
 
 ## [292. Nim Game](/DSA%20Practice/LeetCode/292.%20Nim%20Game/README.md)
 
+## [319. Bulb Switcher](/DSA%20Practice/LeetCode/319.%20Bulb%20Switcher/README.md)
+
 ## [326. Power of Three](/DSA%20Practice/LeetCode/387.%20First%20Unique%20Character%20in%20a%20String/README.md)
 
 ## [338. Counting Bits](/DSA%20Practice/LeetCode/338.%20Counting%20Bits/README.md)
