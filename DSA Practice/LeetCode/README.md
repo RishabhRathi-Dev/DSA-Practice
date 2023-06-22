@@ -212,6 +212,8 @@
 
 ## [705. Design HashSet](/DSA%20Practice/LeetCode/705.%20Design%20HashSet/README.md)
 
+## [714. Best Time to Buy and Sell Stock with Transaction Fee](/DSA%20Practice/LeetCode/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee/README.md)
+
 ## [744. Find Smallest Letter Greater Than Target](/DSA%20Practice/LeetCode/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/README.md)
 
 ## [881. Boats to Save People](/DSA%20Practice/LeetCode/881.%20Boats%20to%20Save%20People/README.md)
