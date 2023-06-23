@@ -309,3 +309,5 @@
 ## [2652. Sum Multiples](/DSA%20Practice/LeetCode/2652.%20Sum%20Multiples/README.md)
 
 ## [2656. Maximum Sum With Exactly K Elements](/DSA%20Practice/LeetCode/2656.%20Maximum%20Sum%20With%20Exactly%20K%20Elements/README%2Cmd)
+
+## [2740. Find the Value of the Partition](/DSA%20Practice/LeetCode/2740.%20Find%20the%20Value%20of%20the%20Partition/README.md)
