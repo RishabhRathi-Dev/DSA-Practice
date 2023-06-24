@@ -206,6 +206,8 @@
 
 ## [586. Customer Placing the Largest Number of Orders](/DSA%20Practice/LeetCode/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders/README.md)
 
+## [595. Big Countries](/DSA%20Practice/LeetCode/595.%20Big%20Countries/README.md)
+
 ## [596. Classes More Than 5 Students](/DSA%20Practice/LeetCode/596.%20Classes%20More%20Than%205%20Students/README.md)
 
 ## [605. Can Place Flowers](/DSA%20Practice/LeetCode/605.%20Can%20Place%20Flowers/README.md)
