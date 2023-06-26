@@ -162,6 +162,8 @@
 
 ## [264. Ugly Number II](/DSA%20Practice/LeetCode/264.%20Ugly%20Number%20II/README.md)
 
+## [268. Missing Number](/DSA%20Practice/LeetCode/268.%20Missing%20Number/README.md)
+
 ## [278. First Bad Version](/DSA%20Practice/LeetCode/278.%20First%20Bad%20Version/README.md)
 
 ## [283. Move Zeroes](/DSA%20Practice/LeetCode/283.%20Move%20Zeroes/README.md)
