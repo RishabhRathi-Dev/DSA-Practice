@@ -218,6 +218,8 @@
 
 ## [620. Not Boring Movies](/DSA%20Practice/LeetCode/620.%20Not%20Boring%20Movies/README.md)
 
+## [626. Exchange Seats](/DSA%20Practice/LeetCode/626.%20Exchange%20Seats/README.md)
+
 ## [649. Dota2 Senate](/DSA%20Practice/LeetCode/649.%20Dota2%20Senate/README.md)
 
 ## [703. Kth Largest Element in a Stream](/DSA%20Practice/LeetCode/703.%20Kth%20Largest%20Element%20in%20a%20Stream/README.md)
