@@ -110,6 +110,8 @@
 
 ## [169. Majority Element](/DSA%20Practice/LeetCode/169.%20Majority%20Element/README.md)
 
+## [172. Factorial Trailing Zeroes](/DSA%20Practice/LeetCode/172.%20Factorial%20Trailing%20Zeroes/README.md)
+
 ## [175. Combine Two Tables](/DSA%20Practice/LeetCode/175.%20Combine%20Two%20Tables/README.md)
 
 ## [176. Second Highest Salary](/DSA%20Practice/LeetCode/176.%20Second%20Highest%20Salary/README.md)
