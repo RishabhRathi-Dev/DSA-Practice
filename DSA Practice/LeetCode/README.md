@@ -218,6 +218,8 @@
 
 ## [608. Tree Node](/DSA%20Practice/LeetCode/608.%20Tree%20Node/README.md)
 
+## [619. Biggest Single Number](/DSA%20Practice/LeetCode/619.%20Biggest%20Single%20Number/README.md)
+
 ## [620. Not Boring Movies](/DSA%20Practice/LeetCode/620.%20Not%20Boring%20Movies/README.md)
 
 ## [626. Exchange Seats](/DSA%20Practice/LeetCode/626.%20Exchange%20Seats/README.md)
