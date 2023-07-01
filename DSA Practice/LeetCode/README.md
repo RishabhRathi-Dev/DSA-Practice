@@ -328,6 +328,8 @@
 
 ## [2619. Array Prototype Last](/DSA%20Practice/LeetCode/2619.%20Array%20Prototype%20Last/README.md)
 
+## [2620. Counter](/DSA%20Practice/LeetCode/2620.%20Counter/README.md)
+
 ## [2652. Sum Multiples](/DSA%20Practice/LeetCode/2652.%20Sum%20Multiples/README.md)
 
 ## [2656. Maximum Sum With Exactly K Elements](/DSA%20Practice/LeetCode/2656.%20Maximum%20Sum%20With%20Exactly%20K%20Elements/README%2Cmd)
