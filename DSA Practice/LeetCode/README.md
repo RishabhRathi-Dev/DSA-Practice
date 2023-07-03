@@ -252,6 +252,8 @@
 
 ## [1046. Last Stone Weight](/DSA%20Practice/LeetCode/1046.%20Last%20Stone%20Weight/README.md)
 
+## [1050. Actors and Directors Who Cooperated At Least Three Times](/DSA%20Practice/LeetCode/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times/README.md)
+
 ## [1114. Print in Order](/DSA%20Practice/LeetCode/1114.%20Print%20in%20Order/README.md)
 
 ## [1146. Snapshot Array](/DSA%20Practice/LeetCode/1146.%20Snapshot%20Array/README.md)
