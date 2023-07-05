@@ -282,6 +282,8 @@
 
 ## [1491. Average Salary Excluding the Minimum and Maximum Salary](/DSA%20Practice/LeetCode/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/README.md)
 
+## [1493. Longest Subarray of 1's After Deleting One Element](/DSA%20Practice/LeetCode/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element/README.md)
+
 ## [1502. Can Make Arithmetic Progression From Sequence](/DSA%20Practice/LeetCode/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence/README.md)
 
 ## [1527. Patients With a Condition](/DSA%20Practice/LeetCode/1527.%20Patients%20With%20a%20Condition/README.md)
