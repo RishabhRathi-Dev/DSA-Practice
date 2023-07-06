@@ -148,6 +148,8 @@
 
 ## [202. Happy Number](/DSA%20Practice/LeetCode/202.%20Happy%20Number/README.md)
 
+## [209. Minimum Size Subarray Sum](/DSA%20Practice/LeetCode/209.%20Minimum%20Size%20Subarray%20Sum/README.md)
+
 ## [217. Contains Duplicate](/DSA%20Practice/LeetCode/217.%20Contains%20Duplicate/README.md)
 
 ## [228. Summary Ranges](/DSA%20Practice/LeetCode/228.%20Summary%20Ranges/README.md)
