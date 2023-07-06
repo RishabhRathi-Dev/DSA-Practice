@@ -186,6 +186,8 @@
 
 ## [344. Reverse String](/DSA%20Practice/LeetCode/344.%20Reverse%20String/README.md)
 
+## [345. Reverse Vowels of a String](/DSA%20Practice/LeetCode/345.%20Reverse%20Vowels%20of%20a%20String/README.md)
+
 ## [347. Top K Frequent Elements](/DSA%20Practice/LeetCode/347.%20Top%20K%20Frequent%20Elements/README.md)
 
 ## [367. Valid Perfect Square](/DSA%20Practice/LeetCode/367.%20Valid%20Perfect%20Square/README.md)
