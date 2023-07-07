@@ -310,6 +310,8 @@
 
 ## [1822. Sign of the Product of an Array](/DSA%20Practice/LeetCode/1822.%20Sign%20of%20the%20Product%20of%20an%20Array/README.md)
 
+## [2024. Maximize the Confusion of an Exam](/DSA%20Practice/LeetCode/2024.%20Maximize%20the%20Confusion%20of%20an%20Exam/README.md)
+
 ## [2090. K Radius Subarray Averages](/DSA%20Practice/LeetCode/2090.%20K%20Radius%20Subarray%20Averages/README.md)
 
 ## [2130. Maximum Twin Sum of a Linked List](/DSA%20Practice/LeetCode/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/README.md)
