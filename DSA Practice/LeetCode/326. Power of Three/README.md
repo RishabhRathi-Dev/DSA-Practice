@@ -9,3 +9,7 @@ An integer n is a power of three, if there exists an integer x such that n == 3x
 ## Approach
 
 Recursion
+
+bit manipulation : 
+
+power 3 = previous power + left shift of previous power
