@@ -152,6 +152,8 @@
 
 ## [209. Minimum Size Subarray Sum](/DSA%20Practice/LeetCode/209.%20Minimum%20Size%20Subarray%20Sum/README.md)
 
+## [215. Kth Largest Element in an Array](/DSA%20Practice/LeetCode/215.%20Kth%20Largest%20Element%20in%20an%20Array/README.md)
+
 ## [217. Contains Duplicate](/DSA%20Practice/LeetCode/217.%20Contains%20Duplicate/README.md)
 
 ## [228. Summary Ranges](/DSA%20Practice/LeetCode/228.%20Summary%20Ranges/README.md)
