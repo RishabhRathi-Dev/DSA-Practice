@@ -344,6 +344,8 @@
 
 ## [2492. Minimum Score of a Path Between Two Cities](/DSA%20Practice/LeetCode/2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities/README.md)
 
+## [2551. Put Marbles in Bags](/DSA%20Practice/LeetCode/2551.%20Put%20Marbles%20in%20Bags/README.md)
+
 ## [2553. Separate the Digits in an Array](/DSA%20Practice/LeetCode/2553.%20Separate%20the%20Digits%20in%20an%20Array/README.md)
 
 ## [2619. Array Prototype Last](/DSA%20Practice/LeetCode/2619.%20Array%20Prototype%20Last/README.md)
