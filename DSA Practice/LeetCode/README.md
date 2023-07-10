@@ -96,6 +96,8 @@
 
 ## [104. Maximum Depth of Binary Tree](/DSA%20Practice/LeetCode/104.%20Maximum%20Depth%20of%20Binary%20Tree/README.md)
 
+## [111. Minimum Depth of Binary Tree](/DSA%20Practice/LeetCode/111.%20Minimum%20Depth%20of%20Binary%20Tree/README.md)
+
 ## [112. Path Sum](/DSA%20Practice/LeetCode/112.%20Path%20Sum/README.md)
 
 ## [118. Pascal's Triangle](/DSA%20Practice/LeetCode/118.%20Pascal's%20Triangle/README.md)
