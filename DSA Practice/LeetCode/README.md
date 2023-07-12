@@ -256,6 +256,8 @@
 
 ## [744. Find Smallest Letter Greater Than Target](/DSA%20Practice/LeetCode/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/README.md)
 
+## [802. Find Eventual Safe States](/DSA%20Practice/LeetCode/802.%20Find%20Eventual%20Safe%20States/README.md)
+
 ## [863. All Nodes Distance K in Binary Tree](/DSA%20Practice/LeetCode/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/README.md)
 
 ## [881. Boats to Save People](/DSA%20Practice/LeetCode/881.%20Boats%20to%20Save%20People/README.md)
