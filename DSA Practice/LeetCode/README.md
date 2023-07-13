@@ -154,6 +154,8 @@
 
 ## [206. Reverse Linked List](/DSA%20Practice/LeetCode/206.%20Reverse%20Linked%20List/README.md)
 
+## [207. Course Schedule](/DSA%20Practice/LeetCode/207.%20Course%20Schedule/README.md)
+
 ## [209. Minimum Size Subarray Sum](/DSA%20Practice/LeetCode/209.%20Minimum%20Size%20Subarray%20Sum/README.md)
 
 ## [215. Kth Largest Element in an Array](/DSA%20Practice/LeetCode/215.%20Kth%20Largest%20Element%20in%20an%20Array/README.md)
