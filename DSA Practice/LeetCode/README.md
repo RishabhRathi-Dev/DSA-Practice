@@ -322,6 +322,8 @@
 
 ## [1732. Find the Highest Altitude](/DSA%20Practice/LeetCode/1732.%20Find%20the%20Highest%20Altitude/README.md)
 
+## [1751. Maximum Number of Events That Can Be Attended II](/DSA%20Practice/LeetCode/1751.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended%20II/README.md)
+
 ## [1768. Merge Strings Alternately](/DSA%20Practice/LeetCode/1768.%20Merge%20Strings%20Alternately/README.md)
 
 ## [1822. Sign of the Product of an Array](/DSA%20Practice/LeetCode/1822.%20Sign%20of%20the%20Product%20of%20an%20Array/README.md)
