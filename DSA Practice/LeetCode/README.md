@@ -190,6 +190,8 @@
 
 ## [292. Nim Game](/DSA%20Practice/LeetCode/292.%20Nim%20Game/README.md)
 
+## [303. Range Sum Query - Immutable](/DSA%20Practice/LeetCode/303.%20Range%20Sum%20Query%20-%20Immutable/README.md)
+
 ## [319. Bulb Switcher](/DSA%20Practice/LeetCode/319.%20Bulb%20Switcher/README.md)
 
 ## [326. Power of Three](/DSA%20Practice/LeetCode/387.%20First%20Unique%20Character%20in%20a%20String/README.md)
