@@ -282,6 +282,8 @@
 
 ## [1114. Print in Order](/DSA%20Practice/LeetCode/1114.%20Print%20in%20Order/README.md)
 
+## [1125. Smallest Sufficient Team](/DSA%20Practice/LeetCode/1125.%20Smallest%20Sufficient%20Team/README.md)
+
 ## [1146. Snapshot Array](/DSA%20Practice/LeetCode/1146.%20Snapshot%20Array/README.md)
 
 ## [1161. Maximum Level Sum of a Binary Tree](/DSA%20Practice/LeetCode/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/README.md)
