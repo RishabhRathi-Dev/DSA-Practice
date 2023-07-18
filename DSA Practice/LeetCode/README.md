@@ -116,6 +116,8 @@
 
 ## [146. LRU Cache](/DSA%20Practice/LeetCode/146.%20LRU%20Cache/README.md)
 
+## [150. Evaluate Reverse Polish Notation](/DSA%20Practice/LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation/README.md)
+
 ## [151. Reverse Words in a String](/DSA%20Practice/LeetCode/151.%20Reverse%20Words%20in%20a%20String/README.md)
 
 ## [153. Find Minimum in Rotated Sorted Array](/DSA%20Practice/LeetCode/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/README.md)
