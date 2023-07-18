@@ -20,6 +20,8 @@
 
 ## [9. Palindrome Number](/DSA%20Practice/LeetCode/9.%20Palindrome%20Number/README.md)
 
+## [10. Regular Expression Matching](/DSA%20Practice/LeetCode/10.%20Regular%20Expression%20Matching/README.md)
+
 ## [11. Container With Most Water](/DSA%20Practice/LeetCode/11.%20Container%20With%20Most%20Water/README.md)
 
 ## [12. Integer to Roman](/DSA%20Practice/LeetCode/12.%20Integer%20to%20Roman/README.md)
