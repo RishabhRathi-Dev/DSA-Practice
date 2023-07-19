@@ -216,6 +216,8 @@
 
 ## [409. Longest Palindrome](/DSA%20Practice/LeetCode/409.%20Longest%20Palindrome/README.md)
 
+## [435. Non-overlapping Intervals](/DSA%20Practice/LeetCode/435.%20Non-overlapping%20Intervals/README.md)
+
 ## [445. Add Two Numbers II](/DSA%20Practice/LeetCode/445.%20Add%20Two%20Numbers%20II/README.md)
 
 ## [451. Sort Characters By Frequency](/DSA%20Practice/LeetCode/409.%20Longest%20Palindrome/README.md)
