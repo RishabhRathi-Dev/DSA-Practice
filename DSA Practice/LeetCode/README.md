@@ -260,6 +260,8 @@
 
 ## [649. Dota2 Senate](/DSA%20Practice/LeetCode/649.%20Dota2%20Senate/README.md)
 
+## [673. Number of Longest Increasing Subsequence](/DSA%20Practice/LeetCode/673.%20Number%20of%20Longest%20Increasing%20Subsequence/README.md)
+
 ## [703. Kth Largest Element in a Stream](/DSA%20Practice/LeetCode/703.%20Kth%20Largest%20Element%20in%20a%20Stream/README.md)
 
 ## [704. Binary Search](/DSA%20Practice/LeetCode/704.%20Binary%20Search/README.md)
