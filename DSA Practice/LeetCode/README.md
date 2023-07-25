@@ -282,6 +282,8 @@
 
 ## [802. Find Eventual Safe States](/DSA%20Practice/LeetCode/802.%20Find%20Eventual%20Safe%20States/README.md)
 
+## [852. Peak Index in a Mountain Array](/DSA%20Practice/LeetCode/852.%20Peak%20Index%20in%20a%20Mountain%20Array/README.md)
+
 ## [863. All Nodes Distance K in Binary Tree](/DSA%20Practice/LeetCode/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/README.md)
 
 ## [881. Boats to Save People](/DSA%20Practice/LeetCode/881.%20Boats%20to%20Save%20People/README.md)
