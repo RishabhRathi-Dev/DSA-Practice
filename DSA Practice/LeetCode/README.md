@@ -322,6 +322,8 @@
 
 ## [1351. Count Negative Numbers in a Sorted Matrix](/DSA%20Practice/LeetCode/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/README.md)
 
+## [1393. Capital Gain/Loss](/DSA%20Practice/LeetCode/1393.%20Capital%20Gain/Loss/README.md)
+
 ## [1396. Design Underground System](/DSA%20Practice/LeetCode/1396.%20Design%20Underground%20System/README.md)
 
 ## [1431. Kids With the Greatest Number of Candies](/DSA%20Practice/LeetCode/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies/README.md)
