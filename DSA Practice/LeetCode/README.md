@@ -278,6 +278,8 @@
 
 ## [735. Asteroid Collision](/DSA%20Practice/LeetCode/735.%20Asteroid%20Collision/README.md)
 
+## [738. Monotone Increasing Digits](/DSA%20Practice/LeetCode/738.%20Monotone%20Increasing%20Digits/README.md)
+
 ## [744. Find Smallest Letter Greater Than Target](/DSA%20Practice/LeetCode/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/README.md)
 
 ## [802. Find Eventual Safe States](/DSA%20Practice/LeetCode/802.%20Find%20Eventual%20Safe%20States/README.md)
