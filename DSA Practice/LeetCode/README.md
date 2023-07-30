@@ -170,6 +170,8 @@
 
 ## [228. Summary Ranges](/DSA%20Practice/LeetCode/228.%20Summary%20Ranges/README.md)
 
+## [229. Majority Element II](/DSA%20Practice/LeetCode/229.%20Majority%20Element%20II/README.md)
+
 ## [231. Power of Two](/DSA%20Practice/LeetCode/231.%20Power%20of%20Two/README.md)
 
 ## [236. Lowest Common Ancestor of a Binary Tree](/DSA%20Practice/LeetCode/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/README.md)
