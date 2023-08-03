@@ -196,6 +196,8 @@
 
 ## [283. Move Zeroes](/DSA%20Practice/LeetCode/283.%20Move%20Zeroes/README.md)
 
+## [290. Word Pattern](/DSA%20Practice/LeetCode/290.%20Word%20Pattern/README.md)
+
 ## [292. Nim Game](/DSA%20Practice/LeetCode/292.%20Nim%20Game/README.md)
 
 ## [303. Range Sum Query - Immutable](/DSA%20Practice/LeetCode/303.%20Range%20Sum%20Query%20-%20Immutable/README.md)
