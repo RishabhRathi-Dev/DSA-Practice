@@ -114,6 +114,8 @@
 
 ## [137. Single Number II](/DSA%20Practice/LeetCode/137.%20Single%20Number%20II/README.md)
 
+## [139. Word Break](/DSA%20Practice/LeetCode/139.%20Word%20Break/README.md)
+
 ## [146. LRU Cache](/DSA%20Practice/LeetCode/146.%20LRU%20Cache/README.md)
 
 ## [150. Evaluate Reverse Polish Notation](/DSA%20Practice/LeetCode/150.%20Evaluate%20Reverse%20Polish%20Notation/README.md)
