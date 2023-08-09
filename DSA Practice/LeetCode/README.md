@@ -258,6 +258,8 @@
 
 ## [601. Human Traffic of Stadium](/DSA%20Practice/LeetCode/601.%20Human%20Traffic%20of%20Stadium/README.md)
 
+## [602. Friend Requests II: Who Has the Most Friends](/DSA%20Practice/LeetCode/602.%20Friend%20Requests%20II%20Who%20Has%20the%20Most%20Friends/README.md)
+
 ## [605. Can Place Flowers](/DSA%20Practice/LeetCode/605.%20Can%20Place%20Flowers/README.md)
 
 ## [608. Tree Node](/DSA%20Practice/LeetCode/608.%20Tree%20Node/README.md)
