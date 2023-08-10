@@ -102,6 +102,8 @@
 
 ## [112. Path Sum](/DSA%20Practice/LeetCode/112.%20Path%20Sum/README.md)
 
+## [116. Populating Next Right Pointers in Each Node](/DSA%20Practice/LeetCode/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node/README.md)
+
 ## [118. Pascal's Triangle](/DSA%20Practice/LeetCode/118.%20Pascal's%20Triangle/README.md)
 
 ## [121. Best Time to Buy and Sell Stock](/DSA%20Practice/LeetCode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md)
