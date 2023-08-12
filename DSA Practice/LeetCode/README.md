@@ -314,6 +314,8 @@
 
 ## [1050. Actors and Directors Who Cooperated At Least Three Times](/DSA%20Practice/LeetCode/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times/README.md)
 
+## [1070. Product Sales Analysis III](/DSA%20Practice/LeetCode/1070.%20Product%20Sales%20Analysis%20III/README.md)
+
 ## [1114. Print in Order](/DSA%20Practice/LeetCode/1114.%20Print%20in%20Order/README.md)
 
 ## [1125. Smallest Sufficient Team](/DSA%20Practice/LeetCode/1125.%20Smallest%20Sufficient%20Team/README.md)
