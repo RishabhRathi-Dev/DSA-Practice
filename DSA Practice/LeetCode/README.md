@@ -236,6 +236,8 @@
 
 ## [455. Assign Cookies](/DSA%20Practice/LeetCode/455.%20Assign%20Cookies/README.md)
 
+## [506. Relative Ranks](/DSA%20Practice/LeetCode/506.%20Relative%20Ranks/README.md)
+
 ## [509. Fibonacci Number](/DSA%20Practice/LeetCode/509.%20Fibonacci%20Number/README.md)
 
 ## [511. Game Play Analysis I](/DSA%20Practice/LeetCode/511.%20Game%20Play%20Analysis%20I/README.md)
