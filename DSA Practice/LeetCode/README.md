@@ -222,6 +222,8 @@
 
 ## [367. Valid Perfect Square](/DSA%20Practice/LeetCode/367.%20Valid%20Perfect%20Square/README.md)
 
+## [378. Kth Smallest Element in a Sorted Matrix](/DSA%20Practice/LeetCode/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/README.md)
+
 ## [387. First Unique Character in a String](/DSA%20Practice/LeetCode/387.%20First%20Unique%20Character%20in%20a%20String/README.md)
 
 ## [409. Longest Palindrome](/DSA%20Practice/LeetCode/409.%20Longest%20Palindrome/README.md)
