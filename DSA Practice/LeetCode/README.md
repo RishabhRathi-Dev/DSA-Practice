@@ -60,6 +60,8 @@
 
 ## [43. Multiply Strings](/DSA%20Practice/LeetCode/43.%20Multiply%20Strings/README.md)
 
+## [44. Wildcard Matching](/DSA%20Practice/LeetCode/44.%20Wildcard%20Matching/README.md)
+
 ## [46. Permutations](/DSA%20Practice/LeetCode/46.%20Permutations/README.md)
 
 ## [48. Rotate Image](/DSA%20Practice/LeetCode/48.%20Rotate%20Image/README.md)
