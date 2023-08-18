@@ -90,6 +90,8 @@
 
 ## [70. Climbing Stairs](/DSA%20Practice/LeetCode/70.%20Climbing%20Stairs/README.md)
 
+## [78. Subsets](/DSA%20Practice/LeetCode/78.%20Subsets/README.md)
+
 ## [83. Remove Duplicates from Sorted List](/DSA%20Practice/LeetCode/83.%20Remove%20Duplicates%20from%20Sorted%20List/README.md)
 
 ## [88. Merge Sorted Array](/DSA%20Practice/LeetCode/88.%20Merge%20Sorted%20Array/README.md)
