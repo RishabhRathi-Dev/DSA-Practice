@@ -282,6 +282,8 @@
 
 ## [626. Exchange Seats](/DSA%20Practice/LeetCode/626.%20Exchange%20Seats/README.md)
 
+## [646. Maximum Length of Pair Chain](/DSA%20Practice/LeetCode/646.%20Maximum%20Length%20of%20Pair%20Chain/README.md)
+
 ## [649. Dota2 Senate](/DSA%20Practice/LeetCode/649.%20Dota2%20Senate/README.md)
 
 ## [673. Number of Longest Increasing Subsequence](/DSA%20Practice/LeetCode/673.%20Number%20of%20Longest%20Increasing%20Subsequence/README.md)
